@@ -1,0 +1,6 @@
+# dune build miniml.opam
+# OCAMLPARAM: unset
+# Workspace root: /Users/yamada/Desktop/ex3-soft
+$ /usr/local/bin/nproc > /var/folders/tm/2v6pqdbj1b159z7f_ltc0sp00000gn/T/dunecc5704.output 2> /dev/null
+# Auto-detected concurrency: 4
+# disable binary cache
